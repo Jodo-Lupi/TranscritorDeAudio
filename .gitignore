@@ -1,0 +1,14 @@
+venv/
+env/
+.venv/
+__pypackages__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+/logs/*
+!/logs/.gitkeep 
+*.wav
+*.docx
+/configs/settings.py
+.vscode/
