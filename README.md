@@ -72,7 +72,7 @@ Abra seu terminal ou Git Bash e clone este repositório para sua máquina local.
 ### Bash
 ```bash
 git clone https://github.com/Jodo-Lupi/TranscritorDeAudio.git
-cd transcritor-audio
+cd TranscritorDeAudio
 ```
 
 **Crie e Ative um Ambiente Virtual**
