@@ -12,3 +12,4 @@ __pycache__/
 *.docx
 /configs/settings.py
 .vscode/
+Executável

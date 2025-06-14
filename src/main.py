@@ -43,7 +43,7 @@ def executar_transcritor(_caminho):
     caminho_original = caminho_var.get()
     _, ext = os.path.splitext(caminho_original)
     ext = ext.lower()
-    caminho_transcricao = os.path.join(caminho, os.path.basename(caminho_original).replace(ext, ".docx"))
+    caminho_transcricao = os.path.join(caminho, os.path.basename(caminho_original).replace(ext, ".txt"))
 
     with open(caminho_transcricao, "w") as file:
         file.write(texto_transcrito)
