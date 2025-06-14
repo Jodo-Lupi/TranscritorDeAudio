@@ -113,7 +113,7 @@ pip install -r requirements.txt
 
 ## Como Usar
 
-Executa o programa, clique em ***Selecionar Arquivo de Áudio*** e abrirá uma janela para escolher um arquivo. Selecionando o arquivo, o caminho e nome do arquivo apareceram na tela. Clique no botão ***Transcrever*** e escolha um local de salvamento, após isso iniciará o processo de transcrição e geração do arquivo .docx. 
+Execute o programa, clique em ***Selecionar Arquivo de Áudio*** e abrirá uma janela para escolher um arquivo. Selecionando o arquivo, o caminho e nome do arquivo apareceram na tela. Clique no botão ***Transcrever*** e escolha um local de salvamento, após isso iniciará o processo de transcrição e geração do arquivo .docx. 
 Você também utilizar dois modos da interface gráfica, o ***Modo Claro*** e ***Modo Escuro***.
 
 ## Licença
