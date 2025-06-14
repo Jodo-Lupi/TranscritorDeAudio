@@ -95,20 +95,12 @@ source venv/bin/activate
 ```
 Você saberá que funcionou quando vir (venv) no início da linha do seu terminal.
 
-**Crie o Arquivo de Dependências (requirements.txt)**
-Crie um arquivo chamado requirements.txt na raiz do projeto com o seguinte conteúdo. Este arquivo lista todas as bibliotecas Python que precisam ser instaladas.
-
-```
-SpeechRecognition
-pydub
-```
-
 **Instale as Dependências**
-Com o ambiente virtual ativo, instale todas as bibliotecas listadas no requirements.txt com um único comando:
+Com o ambiente virtual ativo, instale todas as bibliotecas listadas no requerimentos.txt com um único comando:
 
 ### Bash
 ```bash
-pip install -r requirements.txt
+pip install -r requerimentos.txt
 ```
 
 ## Como Usar
