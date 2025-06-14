@@ -2,7 +2,7 @@
 
 <h1>Transcritor de Áudio</h1>
 
-Transcritor de áudios e vídeos para o formato .docx
+Transcritor de áudios e vídeos para o formato .txt
 
 <img src="/Animação.gif" />
 
@@ -13,7 +13,7 @@ Transcritor de áudios e vídeos para o formato .docx
 ## Sobre o Projeto
 
 O projeto de Transcritor de Áudio teve como objetivo criar uma aplicação capaz de: 
-- Receber qualquer áudio ou vídeo, realizar o processo de transcrição, gerar um arquivo .docx com o texto transcrito e salvar em qualquer local do seu computador. 
+- Receber qualquer áudio ou vídeo, realizar o processo de transcrição, gerar um arquivo .txt com o texto transcrito e salvar em qualquer local do seu computador. 
 
 ## Motivo para Criação do Projeto
 
@@ -105,7 +105,7 @@ pip install -r requerimentos.txt
 
 ## Como Usar
 
-Execute o programa, clique em ***Selecionar Arquivo de Áudio*** e abrirá uma janela para escolher um arquivo. Selecionando o arquivo, o caminho e nome do arquivo apareceram na tela. Clique no botão ***Transcrever*** e escolha um local de salvamento, após isso iniciará o processo de transcrição e geração do arquivo .docx. 
+Execute o programa, clique em ***Selecionar Arquivo de Áudio*** e abrirá uma janela para escolher um arquivo. Selecionando o arquivo, o caminho e nome do arquivo apareceram na tela. Clique no botão ***Transcrever*** e escolha um local de salvamento, após isso iniciará o processo de transcrição e geração do arquivo .txt. 
 Você também utilizar dois modos da interface gráfica, o ***Modo Claro*** e ***Modo Escuro***.
 
 ## Licença
